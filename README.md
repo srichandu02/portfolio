@@ -1,5 +1,9 @@
 # Sri Chandu Nannaka — Portfolio
 
+**Live site: https://srichandu-portfolio.onrender.com**
+
+![Preview](public/og-image.png)
+
 Animated personal portfolio built with **React 18 + Vite**, **Tailwind CSS**, **Framer Motion** and **Lenis** smooth scroll.
 
 ## Run locally
